@@ -1,0 +1,216 @@
+{
+  "main": {
+    "id": "32f1f76f7763850b",
+    "type": "split",
+    "children": [
+      {
+        "id": "3f6999780c0ca682",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5361b394b801e1e5",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ce2ffb80cd7a3537",
+    "type": "split",
+    "children": [
+      {
+        "id": "a93202ade5f821fd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "383bcd4bd665351e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "ee71b81e18e1efbe",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "7c6fc27af184afbc",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 305.5
+  },
+  "right": {
+    "id": "773c4dbe52876ba2",
+    "type": "split",
+    "children": [
+      {
+        "id": "4a6502ddf7d92f0e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e0af1a7783c63c1d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "计算机科学/安全/Pwn/栈溢出.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 栈溢出"
+            }
+          },
+          {
+            "id": "6a354476cddbb686",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "计算机科学/安全/Pwn/格式化字符串漏洞.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 格式化字符串漏洞"
+            }
+          },
+          {
+            "id": "ebbce5566cc54957",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "e5975ee4ad5bc7da",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "0b544510fa9c892a",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "0b544510fa9c892a",
+  "lastOpenFiles": [
+    "周报/周报 - 1915&1916.md",
+    "周报/Untitled",
+    "周报/周报 - 1913&1914.md",
+    "周报/周报 - 1912.md",
+    "周报/周报 - 1911.md",
+    "周报/周报 - 1910.md",
+    "周报/周报 - 1909.md",
+    "计算机科学/安全/Pwn/Pwn.md",
+    "美学/Musica/Composing.md",
+    "计算机科学/安全/Pwn/Ubuntu版本与libc的对应.md",
+    "计算机科学/安全/Pwn/gdb常用命令.md",
+    "计算机科学/安全/Pwn/终止条件.md",
+    "计算机科学/安全/Pwn/格式化字符串漏洞.md",
+    "计算机科学/安全/Pwn/栈溢出.md",
+    "计算机科学/Android/Room/Room.md",
+    "计算机科学/安全/Pwn/小端序.md",
+    "计算机科学/安全/Pwn/调用约定.md",
+    "Untitled",
+    "计算机科学/安全/Pwn/栈迁移.md",
+    "计算机科学/安全/Pwn/栈.md",
+    "计算机科学/安全/Pwn/栈对齐.md",
+    "计算机科学/安全/Pwn/字符串泄露.md",
+    "计算机科学/安全/Pwn/ROP链.md",
+    "计算机科学/安全/Pwn/read()的截断特性.md",
+    "计算机科学/安全/Pwn/NX.md",
+    "计算机科学/安全/Pwn/Canary.md",
+    "计算机科学/安全/Pwn/寄存器.md",
+    "周报",
+    "计算机科学/Android/Room",
+    "计算机科学/Android",
+    "ComputerScience/サイセキュ/Pwn/Untitled",
+    "语言/Untitled",
+    "语言",
+    "计算机科学/安全/Pwn",
+    "计算机科学/C"
+  ]
+}
