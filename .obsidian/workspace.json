@@ -194,10 +194,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "383bcd4bd665351e",
+  "active": "185c4f389e9716d8",
   "lastOpenFiles": [
-    "计算机科学/安全/Pwn/Pwn.md",
+    "计算机科学/安全/Pwn/寄存器.md",
     "index.md",
+    "计算机科学/安全/Pwn/Pwn.md",
     "计算机科学/安全/Pwn/栈迁移.md",
     "计算机科学/安全/Pwn/read()的截断特性.md",
     "计算机科学/安全/Pwn/Ubuntu版本与libc的对应.md",
@@ -206,7 +207,6 @@
     "计算机科学/安全/Pwn/栈.md",
     "计算机科学/安全/Pwn/栈对齐.md",
     "计算机科学/安全/Pwn/小端序.md",
-    "计算机科学/安全/Pwn/寄存器.md",
     "计算机科学/安全/Pwn/字符串泄露.md",
     "计算机科学/安全/Pwn/ShellCode.md",
     "计算机科学/安全/Pwn/ROP链.md",
