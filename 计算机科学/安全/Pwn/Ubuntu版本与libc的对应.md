@@ -1,3 +1,6 @@
+> ⚠️该条目由AI生成，需要整理。
+
+
 - **Ubuntu 16.04**：`2.23-0ubuntu10_amd64` 和 `2.23-0ubuntu10_i386`
     
 - **Ubuntu 18.04**：`2.27-3ubuntu1_amd64` 和 `2.27-3ubuntu1_i386`
