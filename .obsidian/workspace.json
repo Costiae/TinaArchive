@@ -39,14 +39,14 @@
             "id": "ef64533cd93de9be",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "Test.md",
-                "bFile": "Test.md",
-                "aRef": ""
+                "file": "SheetSample.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: Test  (Working Tree)"
+              "icon": "lucide-file",
+              "title": "SheetSample"
             }
           }
         ],
@@ -211,7 +211,7 @@
   "active": "ef64533cd93de9be",
   "lastOpenFiles": [
     "计算机科学/安全/Pwn/栈溢出.md",
-    "SheetTest.md",
+    "SheetSample.md",
     "index.md",
     "计算机科学/安全/Pwn/保护.md",
     "计算机科学/安全/Pwn/栈对齐.md",
