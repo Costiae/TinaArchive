@@ -27,16 +27,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "计算机科学/安全/Pwn/栈对齐.md",
+                "file": "计算机科学/安全/Pwn/保护.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "栈对齐"
+              "title": "保护"
+            }
+          },
+          {
+            "id": "ef64533cd93de9be",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": "Test.md",
+                "bFile": "Test.md",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: Test  (Working Tree)"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -109,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "计算机科学/安全/Pwn/栈对齐.md",
+                "file": "计算机科学/安全/Pwn/保护.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +133,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 栈对齐"
+              "title": "Backlinks for 保护"
             }
           },
           {
@@ -194,9 +208,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "185c4f389e9716d8",
+  "active": "ef64533cd93de9be",
   "lastOpenFiles": [
     "计算机科学/安全/Pwn/栈溢出.md",
+    "SheetTest.md",
+    "index.md",
+    "计算机科学/安全/Pwn/保护.md",
+    "计算机科学/安全/Pwn/栈对齐.md",
     "计算机科学/安全/Pwn/栈迁移.md",
     "计算机科学/安全/Pwn/Pwn.md",
     "计算机科学/安全/Pwn/glibc.md",
@@ -212,9 +230,6 @@
     "计算机科学/安全/Pwn/ShellCode.md",
     "计算机科学/安全/Pwn/Ubuntu版本与libc的对应.md",
     "计算机科学/安全/Pwn/终止条件.md",
-    "index.md",
-    "计算机科学/安全/Pwn/保护.md",
-    "计算机科学/安全/Pwn/栈对齐.md",
     "计算机科学/安全/Pwn/小端序.md",
     "计算机科学/安全/Pwn/Canary.md",
     "计算机科学/安全/Pwn/NX.md",
@@ -224,7 +239,6 @@
     "周报/周报 - 1915&1916.md",
     "周报/Untitled",
     "周报/周报 - 1913&1914.md",
-    "周报/周报 - 1912.md",
     "Untitled",
     "周报",
     "计算机科学/Android/Room",
