@@ -1,0 +1,9 @@
+# Obsidian - 排除工作区状态和缓存文件
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/workspace.json.bak
+.obsidian/cache/
+.obsidian/.trash/
+*.tmp
+*.temp
+*~
