@@ -7,3 +7,4 @@
 *.tmp
 *.temp
 *~
+/.obsidian/workspace.json

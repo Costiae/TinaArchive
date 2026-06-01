@@ -41,30 +41,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "计算机科学/安全/Pwn/小端序.md",
-                "mode": "source",
-                "source": false
+                "file": "教科書/离散数学/集合.md",
+                "mode": "preview",
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "小端序"
-            }
-          },
-          {
-            "id": "ed46a75cea57b802",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "教科書/离散数学/离散数学.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "离散数学"
+              "title": "集合"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -137,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "计算机科学/安全/Pwn/保护.md",
+                "file": "教科書/离散数学/集合.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +132,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 保护"
+              "title": "Backlinks for 集合"
             }
           },
           {
@@ -222,43 +207,43 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ed46a75cea57b802",
+  "active": "5361b394b801e1e5",
   "lastOpenFiles": [
-    "计算机科学/安全/Pwn/调用约定.md",
-    "计算机科学/安全/Pwn/格式化字符串漏洞.md",
-    "计算机科学/安全/Pwn/栈迁移.md",
-    "计算机科学/安全/Pwn/栈对齐.md",
-    "计算机科学/安全/Pwn/小端序.md",
-    "计算机科学/安全/Pwn/字符串泄露.md",
-    "计算机科学/安全/Pwn/保护.md",
-    "计算机科学/安全/Pwn/Ret2LibC.md",
-    "计算机科学/安全/Pwn/Pwn.md",
+    "教科書/离散数学/集合.md",
+    "教科書/离散数学/逻辑门.md",
     "教科書/离散数学/离散数学.md",
-    "Aesthetics/Musica/Composing.md",
     "index.md",
+    "Aesthetics/Musica/Composing.md",
+    "github.com/Costiae/TinaArchive.md",
+    "github.com/Costiae",
+    "github.com",
+    "Aesthetics/Musica/SheetSample.md",
     "教科書/离散数学",
     "教科書",
-    "计算机科学/安全/Pwn/ROP链.md",
-    "计算机科学/安全/Pwn/寄存器.md",
-    "计算机科学/安全/Pwn/ShellCode.md",
     "计算机科学/安全/Pwn/Ubuntu版本与libc的对应.md",
-    "计算机科学/安全/Pwn/glibc.md",
-    "SheetSample.md",
-    "计算机科学/安全/Pwn/栈溢出.md",
-    "计算机科学/安全/Pwn/read()的截断特性.md",
-    "计算机科学/安全/Pwn/gdb常用命令.md",
+    "计算机科学/安全/Pwn/Pwn.md",
     "计算机科学/安全/Pwn/栈.md",
+    "计算机科学/安全/Pwn/栈迁移.md",
+    "计算机科学/安全/Pwn/格式化字符串漏洞.md",
+    "Off-By-One.md",
+    "计算机科学/安全/Pwn/gdb常用命令.md",
+    "计算机科学/安全/Pwn/堆利用.md",
+    "计算机科学/安全/Pwn/保护.md",
     "计算机科学/安全/Pwn/终止条件.md",
-    "计算机科学/安全/Pwn/Canary.md",
-    "计算机科学/安全/Pwn/NX.md",
-    "计算机科学/安全/Pwn/PIE.md",
+    "计算机科学/安全/Pwn/栈对齐.md",
+    "计算机科学/安全/Pwn/glibc.md",
+    "计算机科学/安全/Pwn/Ret2LibC.md",
+    "计算机科学/安全/Pwn/小端序.md",
+    "计算机科学/安全/Pwn/寄存器.md",
+    "计算机科学/安全/Pwn/字符串泄露.md",
+    "计算机科学/安全/Pwn/栈溢出.md",
+    "计算机科学/安全/Pwn/调用约定.md",
+    "计算机科学/安全/Pwn/read()的截断特性.md",
     "计算机科学/安全/Pwn",
     "计算机科学/安全",
     "周报/Untitled",
+    "Untitled",
     "周报",
-    "计算机科学/Android/Room",
-    "计算机科学/Android",
-    "ComputerScience/サイセキュ/Pwn/Untitled",
-    "语言/Untitled"
+    "计算机科学/Android/Room"
   ]
 }
