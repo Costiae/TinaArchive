@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "教科書/离散数学/关系.md",
+                "file": "教科書/离散数学/函数.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "关系"
+              "title": "函数"
             }
           }
         ],
@@ -93,8 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 305.5,
-    "collapsed": true
+    "width": 305.5
   },
   "right": {
     "id": "773c4dbe52876ba2",
@@ -158,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "教科書/离散数学/关系.md",
+                "file": "教科書/离散数学/函数.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 关系"
+              "title": "Outline of 函数"
             }
           },
           {
@@ -198,20 +197,21 @@
   },
   "active": "ef64533cd93de9be",
   "lastOpenFiles": [
-    "教科書/离散数学/逻辑运算.md",
-    "教科書/离散数学/离散数学.md",
     "教科書/离散数学/关系.md",
+    "教科書/离散数学/函数.md",
+    "教科書/离散数学/离散数学.md",
+    "index.md",
+    "Aesthetics/Musica/SheetSample.md",
+    "教科書/离散数学/逻辑运算.md",
     "教科書/离散数学/集合.md",
     "计算机科学/安全/Pwn/保护.md",
     "集合运算.md",
     "教科書/离散数学/逻辑门.md",
     "计算机科学/安全/Pwn/字符串泄露.md",
-    "index.md",
     "Aesthetics/Musica/Composing.md",
     "github.com/Costiae/TinaArchive.md",
     "github.com/Costiae",
     "github.com",
-    "Aesthetics/Musica/SheetSample.md",
     "教科書/离散数学",
     "教科書",
     "计算机科学/安全/Pwn/Ubuntu版本与libc的对应.md",
@@ -227,7 +227,6 @@
     "计算机科学/安全/Pwn/glibc.md",
     "计算机科学/安全/Pwn/Ret2LibC.md",
     "计算机科学/安全/Pwn/小端序.md",
-    "计算机科学/安全/Pwn/寄存器.md",
     "计算机科学/安全/Pwn",
     "计算机科学/安全",
     "周报/Untitled",
