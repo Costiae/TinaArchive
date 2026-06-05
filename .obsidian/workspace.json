@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "树.md",
+                "file": "教科書/离散数学/树.md",
                 "mode": "source",
                 "source": false
               },
@@ -195,10 +195,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ef64533cd93de9be",
+  "active": "383bcd4bd665351e",
   "lastOpenFiles": [
     "教科書/离散数学/离散数学.md",
-    "树.md",
+    "教科書/离散数学/树.md",
     "教科書/离散数学/图.md",
     "教科書/离散数学/命题逻辑.md",
     "教科書/离散数学/函数.md",
