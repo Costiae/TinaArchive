@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "教科書/离散数学/树.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "树"
             }
           }
         ],
@@ -157,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "教科書/离散数学/函数.md",
+                "file": "教科書/离散数学/树.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 函数"
+              "title": "Outline of 树"
             }
           },
           {
@@ -195,19 +195,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ef64533cd93de9be",
+  "active": "0b544510fa9c892a",
   "lastOpenFiles": [
-    "教科書/离散数学/图.md",
-    "教科書/离散数学/树.md",
-    "教科書/离散数学/离散数学.md",
-    "教科書/离散数学/命题逻辑.md",
-    "教科書/离散数学/函数.md",
-    "教科書/离散数学/关系.md",
-    "Aesthetics/Musica/Composing.md",
+    "教科書/离散数学/真值表.md",
     "教科書/离散数学/集合.md",
     "教科書/离散数学/逻辑运算.md",
-    "教科書/离散数学/真值表.md",
+    "教科書/离散数学/离散数学.md",
+    "教科書/离散数学/树.md",
+    "教科書/离散数学/关系.md",
+    "教科書/离散数学/函数.md",
+    "教科書/离散数学/命题逻辑.md",
+    "教科書/离散数学/图.md",
+    "Untitled.canvas",
     "index.md",
+    "Aesthetics/Musica/Composing.md",
     "Aesthetics/Musica/SheetSample.md",
     "计算机科学/安全/Pwn/保护.md",
     "集合运算.md",
@@ -226,7 +227,6 @@
     "Off-By-One.md",
     "计算机科学/安全/Pwn/gdb常用命令.md",
     "计算机科学/安全/Pwn/堆利用.md",
-    "计算机科学/安全/Pwn/终止条件.md",
     "计算机科学/安全/Pwn",
     "计算机科学/安全",
     "周报/Untitled",
