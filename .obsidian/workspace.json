@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "教科書/离散数学/树.md",
+                "file": "教科書/离散数学/离散数学.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "树"
+              "title": "离散数学"
             }
           }
         ],
@@ -195,13 +195,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0b544510fa9c892a",
+  "active": "ef64533cd93de9be",
   "lastOpenFiles": [
     "教科書/离散数学/真值表.md",
+    "教科書/离散数学/树.md",
     "教科書/离散数学/集合.md",
     "教科書/离散数学/逻辑运算.md",
     "教科書/离散数学/离散数学.md",
-    "教科書/离散数学/树.md",
     "教科書/离散数学/关系.md",
     "教科書/离散数学/函数.md",
     "教科書/离散数学/命题逻辑.md",
