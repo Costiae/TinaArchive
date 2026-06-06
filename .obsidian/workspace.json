@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "教科書/离散数学/离散数学.md",
+                "file": "教科書/离散数学/命题逻辑.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "离散数学"
+              "title": "命题逻辑"
             }
           }
         ],
@@ -197,19 +197,19 @@
   },
   "active": "ef64533cd93de9be",
   "lastOpenFiles": [
-    "教科書/离散数学/真值表.md",
+    "教科書/离散数学/图.md",
     "教科書/离散数学/树.md",
-    "教科書/离散数学/集合.md",
-    "教科書/离散数学/逻辑运算.md",
+    "教科書/离散数学/真值表.md",
     "教科書/离散数学/离散数学.md",
+    "教科書/离散数学/逻辑运算.md",
+    "教科書/离散数学/集合.md",
+    "Aesthetics/Musica/Composing.md",
+    "Aesthetics/Musica/SheetSample.md",
     "教科書/离散数学/关系.md",
     "教科書/离散数学/函数.md",
     "教科書/离散数学/命题逻辑.md",
-    "教科書/离散数学/图.md",
-    "Untitled.canvas",
     "index.md",
-    "Aesthetics/Musica/Composing.md",
-    "Aesthetics/Musica/SheetSample.md",
+    "Untitled.canvas",
     "计算机科学/安全/Pwn/保护.md",
     "集合运算.md",
     "教科書/离散数学/逻辑门.md",
