@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "教科書/离散数学/图.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "图"
+              "title": "index"
             }
           }
         ],
@@ -197,9 +197,9 @@
   },
   "active": "ef64533cd93de9be",
   "lastOpenFiles": [
+    "教科書/离散数学/图.md",
     "教科書/离散数学/树.md",
     "教科書/离散数学/离散数学.md",
-    "教科書/离散数学/图.md",
     "教科書/离散数学/命题逻辑.md",
     "教科書/离散数学/函数.md",
     "教科書/离散数学/关系.md",
