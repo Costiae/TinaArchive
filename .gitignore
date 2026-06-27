@@ -8,3 +8,5 @@
 *.temp
 *~
 /.obsidian/workspace.json
+/Private/
+/Draft/
